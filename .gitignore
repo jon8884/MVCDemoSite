@@ -210,3 +210,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/MVCDemo/MVCDemo/Properties/PublishProfiles/SWSETCDemoWebApp__develop.pubxml
+/MVCDemo/MVCDemo/Properties/PublishProfiles/SETCWebAppDevSlot.pubxml
